@@ -1,0 +1,22 @@
+/*
+Creator: Greta Regan
+Date Created: 05/19/2020
+Most recent revision:
+*/
+
+header, footer {
+	background-color: FireBrick;
+	color: cornsilk;
+	height: 100px;
+	text-align: center;
+	padding: 30px 10px 20px 10px;
+}
+
+body {
+	background-color: cornsilk;
+	font-family: arial, helvetica, sans-serif;
+	color: black;
+	max-width: 900px;
+	margin: 0 auto;
+}
+	
